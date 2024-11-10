@@ -1,0 +1,29 @@
+Salesperson,Region,Month,Product,Units Sold,Revenue,Discount,Tax,,,,,,,,,
+Karan,West,Mar,Product B,135,4050,310,160,,Units Sold,,,,,,,
+Ramesh,West,Jun,Product B,125,3750,270,170,,>150,,,,,,,
+Suresh,West,Jul,Product C,125,3750,230,150,,,,,,,,,
+Mohit,West,Apr,Product C,100,3000,200,140,,,,,,,,,
+Amit,West,Jan,Product C,90,2700,150,120,,Salesperson,Region,Month,Product,Units Sold,Revenue,Discount,Tax
+Vikram,West,Feb,Product A,110,2200,200,110,,Nisha,South,Feb,Product B,170,5100,350,210
+Alok,West,May,Product A,100,2000,180,120,,Shruti,South,May,Product B,160,4800,300,220
+Nisha,South,Feb,Product B,170,5100,350,210,,Asha,South,Jun,Product C,155,4650,320,210
+Shruti,South,May,Product B,160,4800,300,220,,Sonali,East,Jul,Product B,170,5100,350,200
+Asha,South,Jun,Product C,155,4650,320,210,,Priya,East,Jan,Product B,160,4800,400,200
+Aarti,South,Mar,Product C,140,4200,280,200,,Rina,East,Apr,Product B,155,4650,320,180
+Rani,South,Jul,Product A,140,2800,210,140,,,,,,,,,
+Neha,South,Jan,Product A,130,2600,180,140,,Product A,,,,,,,
+Priya,South,Apr,Product A,125,2500,190,130,,Product B,,,,,,,
+Rajesh,North,May,Product B,145,4350,340,190,,Product C,127,,,,,,
+Ravi,North,Feb,Product B,140,4200,300,180,,,151.1111111,,,,,,
+Vijay,North,Jun,Product C,105,3150,190,140,,,114.4444444,,,,,,
+Deepak,North,Jul,Product A,150,3000,220,160,,,,,,,,,
+Anil,North,Mar,Product C,95,2850,160,130,,North,,,,,,,
+Sanjay,North,Apr,Product A,140,2800,210,150,,South,,,,,,,
+Rahul,North,Jan,Product A,120,2400,200,100,,East,,,,,,,
+Sonali,East,Jul,Product B,170,5100,350,200,,West,,,,,,,
+Priya,East,Jan,Product B,160,4800,400,200,,,,,,,,,
+Rina,East,Apr,Product B,155,4650,320,180,,,,,,,,,
+Neelam,East,May,Product C,120,3600,270,160,,,,,,,,,
+Sneha,East,Feb,Product C,100,3000,250,130,,,,,,,,,
+Rekha,East,Jun,Product A,130,2600,200,150,,,,,,,,,
+Meera,East,Mar,Product A,125,2500,190,120,,,,,,,,,
